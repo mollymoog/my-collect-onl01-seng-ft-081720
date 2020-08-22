@@ -6,6 +6,6 @@ def my_collect(array)
   language << yield(array[i])
   i += 1 
 end
-
+language
 end
 
